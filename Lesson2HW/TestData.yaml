@@ -1,0 +1,7 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep_time: 1
+implicitly_wait: 3
+
+username: Kreper
+password: 2f9e6fdc58
