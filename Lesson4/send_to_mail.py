@@ -22,8 +22,6 @@ with open(reportname, "rb") as f:
     part['Content-Disposition'] = f'attachment; filename="{basename(reportname)}"'
     msg.attach(part)
 
-# body = "Это пробное сообщение"
-# msg.attach(MIMEText(body, 'plain'))
 
 server = smtplib.SMTP_SSL('smtp.mail.ru', 465)
 server.login(fromaddr, mypass)
