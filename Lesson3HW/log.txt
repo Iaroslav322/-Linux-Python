@@ -1,27 +1,21 @@
-= 2023-12-16 18:51:29 INFO ====== WebDriver manager ======
-= 2023-12-16 18:51:30 INFO Get LATEST chromedriver version for google-chrome
-= 2023-12-16 18:51:31 INFO Get LATEST chromedriver version for google-chrome
-= 2023-12-16 18:51:32 INFO Get LATEST chromedriver version for google-chrome
-= 2023-12-16 18:51:33 INFO WebDriver version 120.0.6099.71 selected
-= 2023-12-16 18:51:33 INFO Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6099.71/win32/chromedriver-win32.zip
-= 2023-12-16 18:51:33 INFO About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/120.0.6099.71/win32/chromedriver-win32.zip
-= 2023-12-16 18:51:33 INFO Driver downloading response is 200
-= 2023-12-16 18:52:10 INFO Get LATEST chromedriver version for google-chrome
-= 2023-12-16 18:52:10 INFO Driver has been saved in cache [C:\Users\krepe\.wdm\drivers\chromedriver\win64\120.0.6099.71]
-= 2023-12-16 18:52:13 INFO Test1 Starting
-= 2023-12-16 18:52:15 INFO Send test to element //*[@id="login"]/div[1]/label/input
-= 2023-12-16 18:52:15 INFO Send test to element //*[@id="login"]/div[2]/label/input
-= 2023-12-16 18:52:15 INFO Click login button
-= 2023-12-16 18:52:16 INFO Found text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
-= 2023-12-16 18:52:16 INFO Test2 Starting
-= 2023-12-16 18:52:16 INFO Send Kreper to element //*[@id="login"]/div[1]/label/input
-= 2023-12-16 18:52:16 INFO Send 2f9e6fdc58 to element //*[@id="login"]/div[2]/label/input
-= 2023-12-16 18:52:16 INFO Click login button
-= 2023-12-16 18:52:18 INFO Test3 Starting
-= 2023-12-16 18:52:18 INFO Click contact button
-= 2023-12-16 18:52:20 INFO Send Kreper to element //*[@id="contact"]/div[1]/label/input
-= 2023-12-16 18:52:20 INFO Send test@test.ru to element //*[@id="contact"]/div[2]/label/input
-= 2023-12-16 18:52:20 INFO Send РЎРѕР·РґР°РЅ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё to element //*[@id="contact"]/div[3]/label/span/textarea
-= 2023-12-16 18:52:20 INFO Click contact button
-= 2023-12-16 18:52:22 INFO Switch alert
-= 2023-12-16 18:52:22 INFO Form successfully submitted
+= 2023-12-19 23:31:37 INFO ====== WebDriver manager ======
+= 2023-12-19 23:31:37 INFO Get LATEST chromedriver version for google-chrome
+= 2023-12-19 23:31:38 INFO Get LATEST chromedriver version for google-chrome
+= 2023-12-19 23:31:38 INFO Driver [C:\Users\krepe\.wdm\drivers\chromedriver\win64\120.0.6099.109\chromedriver-win32/chromedriver.exe] found in cache
+= 2023-12-19 23:31:39 INFO Test1 Starting
+= 2023-12-19 23:31:40 INFO Send test to element //*[@id="login"]/div[1]/label/input
+= 2023-12-19 23:31:40 INFO Send test to element //*[@id="login"]/div[2]/label/input
+= 2023-12-19 23:31:40 INFO Click login button
+= 2023-12-19 23:31:41 INFO Found text 401 in error field //*[@id="app"]/main/div/div/div[2]/h2
+= 2023-12-19 23:31:41 INFO Test2 Starting
+= 2023-12-19 23:31:41 INFO Send Kreper to element //*[@id="login"]/div[1]/label/input
+= 2023-12-19 23:31:41 INFO Send 2f9e6fdc58 to element //*[@id="login"]/div[2]/label/input
+= 2023-12-19 23:31:41 INFO Click login button
+= 2023-12-19 23:31:42 INFO Test3 Starting
+= 2023-12-19 23:31:42 INFO Click contact button
+= 2023-12-19 23:31:44 INFO Send Kreper to element //*[@id="contact"]/div[1]/label/input
+= 2023-12-19 23:31:44 INFO Send test@test.ru to element //*[@id="contact"]/div[2]/label/input
+= 2023-12-19 23:31:45 INFO Send РЎРѕР·РґР°РЅ Р°РІС‚РѕРјР°С‚РёС‡РµСЃРєРё to element //*[@id="contact"]/div[3]/label/span/textarea
+= 2023-12-19 23:31:45 INFO Click contact button
+= 2023-12-19 23:31:47 INFO Switch alert
+= 2023-12-19 23:31:47 INFO Form successfully submitted
