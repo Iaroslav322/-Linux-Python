@@ -11,7 +11,7 @@ content: Hello world
 
 u_name: Yaroslav
 u_email: shlebtskiy94@mail.ru
-content_contact: One of them has interesting and useful things to say, but can not get their point across. In that case, you need an interpreter.
+content_contact: Hello World!
 
 url: https://test-stand.gb.ru/gateway/login
 api_address: https://test-stand.gb.ru/api/posts
